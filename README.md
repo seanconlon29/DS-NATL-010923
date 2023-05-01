@@ -14,7 +14,7 @@ This will be the main lecture repository for the Flatiron School Data Science Co
 
 **2) CLONE your fork to your local computer**
 
-* To do this, navigate in your terminal to an appropriate folder. We recommend you have an overall 'Flatiron' folder either in your documents or on your desktop.
+* To do this, **navigate in your terminal to an appropriate folder**. We recommend you have an overall 'Flatiron' folder either in your documents or on your desktop.
 * Once you're in the right place, you'll need to input the following command, replacing '[yourusername]' with your Github account:
 
 <code>git clone https://github.com/[yourusername]/DS-NATL-010923.git;
@@ -24,7 +24,7 @@ This will be the main lecture repository for the Flatiron School Data Science Co
 
 **3) Add the /flatiron-school/ version as the upstream (to pull future changes)**
 
-* Navigate into the new folder you created when you cloned down the fork, and then input this code:
+* **Navigate into the new folder** you created when you cloned down the fork, and then input this code:
 
 <code>git remote add upstream https://github.com/flatiron-school/DS-NATL-010923.git</code>
 
@@ -32,7 +32,7 @@ This will be the main lecture repository for the Flatiron School Data Science Co
 
 **1) Grab the changes from the upstream repo**
 
-* Using the terminal from inside the appropriate folder, input this command:
+* Using the terminal **from inside the appropriate folder**, input this command:
 
 <code>git fetch upstream</code>
 
